@@ -54,7 +54,7 @@ section {
 }
 
 header {
-    background: url("img/castelo animado fundo.jpeg") center/cover no-repeat;
+    background: url("img/jj1.jpg") center/cover no-repeat;
 }
 
 #tropicalia {
@@ -62,8 +62,8 @@ header {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/Studio-Ghibli-Logo.jpg') top right no-repeat,
-        url('img/ponyo.webp') bottom left no-repeat;
+    background: url('img/joseph3\(1\).jpg') top right no-repeat,
+        url('img/joseph4.jpg') bottom left no-repeat;
     background-size: 180px 18   0px;
     /* Ajuste o tamanho conforme necessário */
 
